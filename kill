@@ -49,3 +49,7 @@ git log
 
 # Reset last commit (only works if more than one commit exists)
 git reset --soft HEAD~1
+
+
+
+cd Desktop/demo
